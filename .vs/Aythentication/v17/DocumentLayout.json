@@ -1,54 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\APi\\Auth\\Aythentication\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\api\\auth\\aythentication\\aythentication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\api\\auth\\aythentication\\aythentication\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "vercel.json",
-              "DocumentMoniker": "C:\\APi\\Auth\\Aythentication\\Aythentication\\vercel.json",
-              "RelativeDocumentMoniker": "Aythentication\\vercel.json",
-              "ToolTip": "C:\\APi\\Auth\\Aythentication\\Aythentication\\vercel.json",
-              "RelativeToolTip": "Aythentication\\vercel.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-24T12:40:18.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Dockerfile",
-              "RelativeDocumentMoniker": "Aythentication\\Dockerfile",
-              "ToolTip": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Dockerfile",
-              "RelativeToolTip": "Aythentication\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-24T12:36:55.755Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
