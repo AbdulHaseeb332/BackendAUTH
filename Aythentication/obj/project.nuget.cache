@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UCZ7G1cfkWA=",
+  "dgSpecHash": "sfySQfVc3pQ=",
   "success": true,
-  "projectFilePath": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.csproj",
+  "projectFilePath": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.cproj.user.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdul Haseeb\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Abdul Haseeb\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

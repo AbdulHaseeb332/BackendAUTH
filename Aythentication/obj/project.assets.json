@@ -4492,9 +4492,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.csproj",
-      "projectName": "Aythentication",
-      "projectPath": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.csproj",
+      "projectUniqueName": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.cproj.user.csproj",
+      "projectName": "Aythentication.cproj.user",
+      "projectPath": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.cproj.user.csproj",
       "packagesPath": "C:\\Users\\Abdul Haseeb\\.nuget\\packages\\",
       "outputPath": "C:\\APi\\Auth\\Aythentication\\Aythentication\\obj\\",
       "projectStyle": "PackageReference",
