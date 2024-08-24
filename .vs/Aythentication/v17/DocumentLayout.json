@@ -1,12 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\users\\abdul haseeb\\desktop\\backend\\aythentication\\aythentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\aythentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\users\\abdul haseeb\\desktop\\backend\\aythentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\users\\abdul haseeb\\desktop\\backend\\aythentication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\users\\abdul haseeb\\desktop\\backend\\aythentication\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\users\\abdul haseeb\\desktop\\backend\\aythentication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|c:\\users\\abdul haseeb\\desktop\\backend\\aythentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E3B69E-59AC-4118-9E44-48F1ACDCC12A}|Aythentication\\Aythentication.csproj|solutionrelative:aythentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aythentication",
+              "DocumentMoniker": "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\Aythentication\\Aythentication.csproj",
+              "RelativeDocumentMoniker": "Aythentication\\Aythentication.csproj",
+              "ToolTip": "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\Aythentication\\Aythentication.csproj",
+              "RelativeToolTip": "Aythentication\\Aythentication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T14:57:58.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Aythentication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Aythentication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv3EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:56:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Aythentication\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Aythentication\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:50:13.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vercel.json",
+              "DocumentMoniker": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\vercel.json",
+              "RelativeDocumentMoniker": "Aythentication\\vercel.json",
+              "ToolTip": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\vercel.json",
+              "RelativeToolTip": "Aythentication\\vercel.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T14:37:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Dockerfile",
+              "RelativeDocumentMoniker": "Aythentication\\Dockerfile",
+              "ToolTip": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Dockerfile",
+              "RelativeToolTip": "Aythentication\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T14:37:19.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Program.cs",
+              "RelativeDocumentMoniker": "Aythentication\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdul Haseeb\\Desktop\\Backend\\Aythentication\\Program.cs",
+              "RelativeToolTip": "Aythentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:37:17.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

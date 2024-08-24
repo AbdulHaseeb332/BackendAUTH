@@ -143,3 +143,13 @@ C:\APi\Auth\Aythentication\Aythentication\obj\Debug\net8.0\Aythentication.pdb
 C:\APi\Auth\Aythentication\Aythentication\obj\Debug\net8.0\Aythentication.genruntimeconfig.cache
 C:\APi\Auth\Aythentication\Aythentication\obj\Debug\net8.0\ref\Aythentication.dll
 C:\APi\Auth\Aythentication\Aythentication\obj\Debug\net8.0\Aythentication.sourcelink.json
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.AssemblyInfoInputs.cache
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.AssemblyInfo.cs
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.sourcelink.json
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.dll
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\refint\Aythentication.dll
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.pdb
+C:\Users\Abdul Haseeb\Desktop\backend\Aythentication\obj\Debug\net8.0\Aythentication.csproj.AssemblyReference.cache

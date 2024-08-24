@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.csproj": {}
+    "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\Aythentication\\Aythentication.csproj": {}
   },
   "projects": {
-    "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.csproj": {
+    "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\Aythentication\\Aythentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.csproj",
+        "projectUniqueName": "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\Aythentication\\Aythentication.csproj",
         "projectName": "Aythentication",
-        "projectPath": "C:\\APi\\Auth\\Aythentication\\Aythentication\\Aythentication.csproj",
+        "projectPath": "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\Aythentication\\Aythentication.csproj",
         "packagesPath": "C:\\Users\\Abdul Haseeb\\.nuget\\packages\\",
-        "outputPath": "C:\\APi\\Auth\\Aythentication\\Aythentication\\obj\\",
+        "outputPath": "C:\\Users\\Abdul Haseeb\\Desktop\\backend\\Aythentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdul Haseeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,11 +46,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
             },
@@ -64,13 +66,9 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Swashbuckle": {
+            "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
-              "version": "[5.6.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.7.2, )"
             }
           },
           "imports": [
