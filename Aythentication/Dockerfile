@@ -6,10 +6,10 @@ EXPOSE 80
 # Use the .NET 8 SDK image to build and publish the application
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["Aythentication.csproj", "./"]
-RUN dotnet restore "./Aythentication.csproj"
-COPY . .
-WORKDIR "/src/."
+COPY ["Aythentication/Aythentication.csproj", "Aythentication/"]
+RUN dotnet restore "Aythentication/Aythentication.csproj"
+COPY Aythentication/. Aythentication/
+WORKDIR "/src/Aythentication"
 RUN dotnet build "Aythentication.csproj" -c Release -o /app/build
 
 FROM build AS publish
