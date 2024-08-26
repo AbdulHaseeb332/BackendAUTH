@@ -7,6 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Text.RegularExpressions;
 using System.Text;
+using System.Threading.Tasks;
+using System;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Aythentication.Controllers
 {
@@ -37,9 +42,12 @@ namespace Aythentication.Controllers
                     Message ="Username And Password Is In Correct"
                 });
 
+            user.Token =CreateJwt(user);
+
             return Ok(
                 new
                 {
+                    Token = user.Token,
                     Message ="Login Success!"
                 });
         }
@@ -108,6 +116,30 @@ namespace Aythentication.Controllers
 
             return sb.ToString();
         }
+
+        private string CreateJwt(User user)
+        {
+            var jwtTokenHandler = new JwtSecurityTokenHandler();
+            var key = Encoding.ASCII.GetBytes("verysecretkey12345678901234567890"); // 32 characters
+            var identity = new ClaimsIdentity(new Claim[]
+            {
+        new Claim(ClaimTypes.Role, user.Role),
+        new Claim(ClaimTypes.Name, $"{user.FirstName} {user.LastName}")
+            });
+
+            var credentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256);
+
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = identity,
+                Expires = DateTime.Now.AddDays(1),
+                SigningCredentials = credentials
+            };
+
+            var token = jwtTokenHandler.CreateToken(tokenDescriptor);
+            return jwtTokenHandler.WriteToken(token);
+        }
+
 
     }
 }

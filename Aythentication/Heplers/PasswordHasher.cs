@@ -1,5 +1,5 @@
-﻿using System.Security.Cryptography;
-
+﻿using System;
+using System.Security.Cryptography;
 namespace Authentication.Helpers
 {
     public class PasswordHasher
